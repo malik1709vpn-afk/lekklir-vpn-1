@@ -1,0 +1,3 @@
+name = "lekklir-vpn"
+main = "worker1.js"
+compatibility_date = "2026-07-01"
